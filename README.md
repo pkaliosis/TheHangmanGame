@@ -1,0 +1,3 @@
+# TheHangmanGame
+
+My very first coding project at AUEB. It is an amateur implementation of the famous Hangman game using Python. It may be helpful to rookie programmers who want to check an easy and understandable...
