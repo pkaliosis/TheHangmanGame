@@ -1,3 +1,2 @@
 # TheHangmanGame
-
-My very first coding project at AUEB. It is an amateur implementation of the famous Hangman game using Python. It may be helpful to rookie programmers who want to check an easy and understandable...
+My very first coding project at AUEB. It is an amateur implementation of the famous Hangman game using Python. It may be helpful to rookie programmers who want to check an easy and understandable (hope so) implementation of the game. As my first project it surely has some inadequacies, but it compiles just fine and can be fully functional. Important: The game is implemented to be played only in greek.
